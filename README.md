@@ -20,10 +20,7 @@ In today's data-driven world, HR analytics plays a crucial role in shaping organ
 I am a passionate and dedicated individual with a strong desire to build a career in data analysis, leveraging my skills and knowledge to drive meaningful impact and contribute to organizational success. With a keen eye for detail and a love for problem-solving, I am committed to continuously learning and growing in the field of data analytics.
 
 ## Explore My Dashboard:
-
-## Explore My Dashboard:
-
-![HR Analytics Dashboard](dashboard_screenshot.png)
+![HR Analytics Dashboard](HR ANALYTICS DASHBOARD.png)
 
 To explore my Tableau dashboard, click [here](https://public.tableau.com/views/HRANALYTICSDASHBOARD_17155241426740/HRANALYTICSDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
